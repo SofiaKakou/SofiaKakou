@@ -2,7 +2,7 @@
 ![snake gif](https://github.com/SofiaKakou/SofiaKakou/blob/output/github-snake-dark.svg)
 
 # 💫 About Me:
-I’m a Computer Science Bachelor, passionate about Data Science, software engineering, and game development. I love building creative projects, writing clean code, and constantly learning new technologies. Check out my work below!
+I’m a Computer Science Bachelor, passionate about Data Science, Software Engineering, and Game Development. I love building creative projects, writing clean code, and constantly learning new technologies. Check out my work below!
 
 
 ## 🌐 Socials:
