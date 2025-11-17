@@ -15,7 +15,7 @@ I’m a Computer Science Bachelor, passionate about Data Science, Software Engin
 ![](https://nirzak-streak-stats.vercel.app/?user=SofiaKakou&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaKakou&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-###  Random Dev Quote
+###  Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
